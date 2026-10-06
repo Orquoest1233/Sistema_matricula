@@ -1,4 +1,4 @@
-# Sistema de maticulas con microservicios
+# Sistema de matriculas con microservicios
 
 Proyecto de sistema de maticulas con microservicios usando spring, java, Eureka server 
 
