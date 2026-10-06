@@ -9,6 +9,7 @@ Proyecto de sistema de maticulas con microservicios usando spring, java, Eureka 
 <img width="632" height="340" alt="UseCaseDiagram1" src="https://github.com/user-attachments/assets/6e199edf-a564-4a4e-bf0e-73e1cbf6feea" />
 
 ## Diagrama de clases
-<img width="632" height="340" alt="UseCaseDiagram1" src="https://github.com/user-attachments/assets/4628b1cd-b2fe-4a8f-99e7-7ee16932fe14" />
+<img width="1521" height="841" alt="ClassDiagram1" src="https://github.com/user-attachments/assets/6b72351b-64a4-4d36-9792-d97776a13bae" />
+
 
 
