@@ -1,6 +1,6 @@
 # Sistema de matriculas con microservicios
 
-Proyecto de sistema de maticulas con microservicios usando spring, java, Eureka server 
+Proyecto de sistema de matriculas con microservicios usando spring, java, Eureka server 
 
 ## Modelo de dominio
 <img width="1089" height="217" alt="Modelo de dominio" src="https://github.com/user-attachments/assets/5c44a1e1-4691-484f-aca6-229557812fcf" />
